@@ -6,7 +6,7 @@ This repo is used to store the Dockerfiles which can be used to build Docker ima
 for each product released in the stack. Those Dockerfiles were generated from the 
 products' own repositories for which you can get the links in the sections below. 
 Please note that **issues are disabled on this repo** and that all issues and PRs 
-must be filed in the products' repositories.
+must be filed in the products' repositories. 
 
 ## Elasticsearch
 
