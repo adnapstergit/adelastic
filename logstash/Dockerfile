@@ -1,8 +1,7 @@
 # This Dockerfile was generated from templates/Dockerfile.j2
 FROM centos:7
 
-# Install Java and the "which" command, which is needed by Logstash's shell
-# scripts.
+
 RUN yum update -y && yum install -y java-11-openjdk-devel which && \
     yum clean all
 
