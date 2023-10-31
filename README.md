@@ -1,7 +1,7 @@
 # OpenStack Community
 
 ## About this Repository
-
+ 
 This repository serves as a centralized storage for Dockerfiles utilized in constructing Docker images for individual products within the software stack. These Dockerfiles have been automatically derived from the respective product repositories, the links to which are provided in the following sections. It is essential to emphasize that issue tracking functionality is deactivated within this repository. Consequently, all issues and pull requests need to be submitted and managed within the specific repositories of the respective products.
 
 
