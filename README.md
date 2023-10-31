@@ -1,4 +1,4 @@
-# Openstack Comminity 
+# OpenStack Community
 
 ## About this Repository
 
