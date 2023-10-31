@@ -18,7 +18,7 @@ unexpected.
 For more information about Elasticsearch, please visit
 https://www.elastic.co/products/elasticsearch.
 
-### Where to file issues and PRs
+### The issues can be registered below
 
 - [Issues](https://github.com/elastic/elasticsearch/issues)
 - [PRs](https://github.com/elastic/elasticsearch/pulls)
