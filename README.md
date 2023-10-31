@@ -2,12 +2,7 @@
 
 ## About this Repository
 
-This repo is used to store the Dockerfiles which can be used to build Docker images 
-for each product released in the stack. Those Dockerfiles were generated from the 
-products' own repositories for which you can get the links in the sections below. 
-Please note that **issues are disabled on this repo** and that all issues and PRs 
-must be filed in the products' repositories. 
-
+This repository serves as a centralized storage for Dockerfiles utilized in constructing Docker images for individual products within the software stack. These Dockerfiles have been automatically derived from the respective product repositories, the links to which are provided in the following sections. It is essential to emphasize that issue tracking functionality is deactivated within this repository. Consequently, all issues and pull requests need to be submitted and managed within the specific repositories of the respective products.
 ## Elasticsearch
 
 **Elasticsearch** is a distributed, RESTful search and analytics engine capable of
