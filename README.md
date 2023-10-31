@@ -13,7 +13,7 @@ centrally stores your data so you can discover the expected and uncover the
 unexpected.
 
 For more information about Elasticsearch, please visit
-https://www.elastic.co/products/elasticsearch.
+##https://www.elastic.co/products/elasticsearch.
 
 ### The issues can be registered below
 
